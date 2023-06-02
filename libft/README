@@ -1,0 +1,4 @@
+Welcome to my libft library!!
+To use, copy the libft folder into the folder of the file you are trying to use the library from,
+run "make lib" in the library and be sure to have the 'libft.h' included from your main file.
+enjoy!
